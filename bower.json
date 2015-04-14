@@ -1,0 +1,19 @@
+{
+  "name": "AutoHome Web Client",
+  "version": "0.0.0",
+  "authors": [
+    "Ben Scholer <benscholer3248511@gmail.com>"
+  ],
+  "description": "The web client for AutoHome.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5"
+  }
+}
