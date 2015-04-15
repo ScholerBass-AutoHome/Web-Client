@@ -1,0 +1,10 @@
+[
+    {
+        "type":"appliance",
+        "name":"Light",
+        "imageIndexOn":"0",
+        "imageIndexOff":"1",
+        "status":"false",
+        "outletSerial":"0-0"
+    }
+]
